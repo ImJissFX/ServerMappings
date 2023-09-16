@@ -1,0 +1,32 @@
+{
+    "id": "skycube",
+    "name": "SkyCube Network",
+    "store": "https://store.skycube.io/",
+    "addresses": [
+        "skycube.io",
+        "aphnet.us"
+    ],
+    "primaryAddress": "skycube.io",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.16.1",
+    "primaryColor": "#00cdfc",
+    "secondaryColor": "#E8E5E4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "SkyCubeNW",
+        "discord": "https://discord.skycube.io/"
+    }
+}
